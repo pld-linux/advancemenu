@@ -1,6 +1,6 @@
 #
 # Conditional build:
-%bcond_without	svga	# SVGAlib support
+%bcond_with	svga	# SVGAlib support
 
 Summary:	AdvanceMENU - frontend for AdvanceMAME, AdvanceMESS and any other emulator
 Summary(pl.UTF-8):	AdvanceMENU - interfejs dla AdvanceMAME, AdvanceMESS i innych emulatorów
